@@ -13,7 +13,8 @@ st.markdown(
     Navigate through the **sidebar tabs** to enjoy some powerful and efficient tools developed by our team.
     ## Want to know more about our features?
     - [Global Insights](Global_Insights) to see the Big Picture of the IOT Environment. 
-    - [Server Configuration](Server_Configuration) to dive into each server that needs new configuration.
+    - [Reconfiguration Summary](Reconfiguration_Summary) to take a look at the IT configuration and the outcomes.
+    - [Dynamic Configuration](Dynamic_Configuration) to dive into each server that needs new configuration.
     
     """
 )
