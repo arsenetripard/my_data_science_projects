@@ -1,5 +1,11 @@
 # My data science projects
 
+## Computer Vision : extract satellite images of airports and identify road defects
+
+The objective is to identify road defects on airports runways. As explained by our coaches at Colas for this project, there are different types of road defects (faïençage, fissure, etc...). 
+I was in charge of the data engineering on this project, which consisted in requesting the orthophotos and delimiting them on the airports. There was quite a lot of geospatial thinking involved, and I got familiar with ```GetMap``` requests.
+Then, we implemented one of HuggingFace's transformers for Computer Vision tasks.
+
 ## NLP : named-entity recognition (NER) in hospital admission notes
 
 Starting with a dataset containing approximately 500 hospital admission notes, we had to label data and build a NER (also called token-classification) model.
